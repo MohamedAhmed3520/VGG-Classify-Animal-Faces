@@ -143,12 +143,9 @@ VGG16
 TensorFlow
 
 <b>Dataset</b><br>
-
 <a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
 target="_blank">
-
 <br><br>
-
 
 
 <b>Classes</b><br>
