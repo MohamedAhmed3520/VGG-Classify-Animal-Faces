@@ -133,15 +133,14 @@ with right:
 <div class="card">
 
 <h3>🤖 Model Information</h3>
-<b>Dataset</b><br>
-<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
-target="_blank">
-<br>
 
 <b>Architecture</b><br>
 VGG16
 
-<br><br>
+<b>Dataset</b><br>
+<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
+target="_blank">
+<br>
 
 <b>Framework</b><br>
 TensorFlow
