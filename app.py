@@ -148,11 +148,7 @@ target="_blank">
 <br><br>
 
 
-<b>Classes</b><br>
 
-• Cat<br>
-• Dog<br>
-• Wild
 
 </div>
 """, unsafe_allow_html=True)
