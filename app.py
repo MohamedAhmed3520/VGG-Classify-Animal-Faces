@@ -142,12 +142,14 @@ VGG16
 <b>Framework</b><br>
 TensorFlow
 
-<br><br>
-
 <b>Dataset</b><br>
 
 <a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
 target="_blank">
+
+<br><br>
+
+
 
 <b>Classes</b><br>
 
