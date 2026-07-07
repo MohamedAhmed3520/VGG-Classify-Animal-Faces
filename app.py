@@ -138,13 +138,15 @@ with right:
 VGG16
 
 <b>Dataset</b><br>
-<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
-target="_blank">
-<br>
+
+<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces" target="_blank">
+📂 Animal Faces (Kaggle)
+</a>
+
+<br><br>
 
 <b>Framework</b><br>
 TensorFlow
-
 
 
 <b>Classes</b><br>
