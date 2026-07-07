@@ -133,6 +133,10 @@ with right:
 <div class="card">
 
 <h3>🤖 Model Information</h3>
+<b>Dataset</b><br>
+<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
+target="_blank">
+<br>
 
 <b>Architecture</b><br>
 VGG16
@@ -142,11 +146,13 @@ VGG16
 <b>Framework</b><br>
 TensorFlow
 
-<b>Dataset</b>
-<a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces"
-target="_blank">
-<br><br>
 
+
+<b>Classes</b><br>
+
+• Cat<br>
+• Dog<br>
+• Wild
 
 
 
